@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Tauri build artifacts
+target/
